@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=7c3aed&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=jirehcustodio&label=Profile%20Views&color=7c3aed&style=flat-square"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Engineering-7c3aed?style=flat-square&logo=stackblitz&logoColor=white"/>
 &nbsp;
@@ -61,17 +61,17 @@ I'm a software engineer focused on building practical and reliable solutions. My
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jirehcustodio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" height="170"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirehcustodio&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="170"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa" width="495"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jirehcustodio&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa" width="495"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=a78bfa&point=f472b6&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jirehcustodio&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=a78bfa&point=f472b6&hide_border=true" width="100%"/>
 
 </div>
 
@@ -80,7 +80,7 @@ I'm a software engineer focused on building practical and reliable solutions. My
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24"/> GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jirehcustodio&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" width="100%"/>
 </div>
 
 ---
@@ -107,7 +107,7 @@ I'm a software engineer focused on building practical and reliable solutions. My
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/jireh-custodio-19a492341/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
@@ -115,19 +115,19 @@ I'm a software engineer focused on building practical and reliable solutions. My
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://facebook.com/YOUR_FACEBOOK">
+<a href="https://facebook.com/jireh.custodio.5">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://instagram.com/YOUR_INSTAGRAM">
+<a href="https://instagram.com/ji_cstd/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://discord.com/users/YOUR_DISCORD">
+<a href="https://discord.com/users/buffedhakdog">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:jireh4401@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
